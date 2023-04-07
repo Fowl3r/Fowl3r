@@ -8,7 +8,7 @@ I have just successfully completed The School Of Code boot camp 13. I believe te
 
 *   🌍  I'm based in Peterborough/ Sheffield
 *   ✉️  You can contact me at [tcd.fowler@gmail.com](mailto:tcd.fowler@gmail.com)
-*   🧠  I'm learning NEXT.JS 13, Tailwind.css
+*   🧠  I'm learning NEXT.JS 13, Tailwind.css, php, laravel
 *   💻  Current Project - Blog site focusing on accessibility for visually impaired users, NEXT.JS 13, Tailwind.CSS & PocketBase
 ### Skills 
 <p align="left">
@@ -27,6 +27,8 @@ I have just successfully completed The School Of Code boot camp 13. I believe te
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
+<a href="https://www.php.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php.svg" width="36" height="36" alt="Figma" /></a>
 </p>
                     
  ### Socials                 
