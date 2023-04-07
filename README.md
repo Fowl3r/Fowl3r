@@ -34,7 +34,7 @@ I have just successfully completed The School Of Code boot camp 13. I believe te
  ### Socials                 
                   
 <p align="left">                   
-<a href="https://www.github.com/Fowl3r" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/Fowl3r" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-colored.svg" width="32" height="32" /></a>
                           
 <a href="http://www.instagram.com/x.codehunter.x" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
